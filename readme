@@ -1,0 +1,13 @@
+Kocaeli Üniversitesi Bilgisayar Mühendisliği Bölümü
+Nesneye Yönelik Programlama Dersi
+QUIZ 5
+
+------------------------------------
+
+ Bu program class kullanımı için yazılmıştır. Class ile dizi işlemleri yapmanızı sağlar.
+ Hem "ArrayList" hem "Array"ler kullanılmıştır. Dizi işlemleri için "main" içinde dizi 
+ tanımladıktan sonra class içindeki işlemlerle küme elemanlarını kıyaslayabilir, küme
+ elemanlarına yeni eleman ekleyebilir, kümeleri birbirine ekleyebilir ve ortak eleman
+ var mı diye bakabilirsiniz.
+ 
+-------------------------------------
